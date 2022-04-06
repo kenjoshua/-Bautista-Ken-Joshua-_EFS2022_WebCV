@@ -1,0 +1,103 @@
+.body{
+    position: inherit;
+    height: 2900px;
+    background-color: #cccccc;
+    background-image: linear-gradient(black, gray, white);
+    background-size: cover;
+}
+.button{
+    object-position: center;
+}
+
+#know{
+    height: 100vh;
+}
+
+#pic{
+    height: 800px;
+    width: 500px;
+    position: absolute;
+    right: 300px;
+    top: 205px;
+}
+
+#who{
+    font-family: Bold Fraktur Font;
+    font-size: 120px;
+    position: absolute;
+    left: 260px;
+    top: 300px;
+    color: aliceblue;
+   
+}
+
+
+.row_1{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200731/pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg");
+    background-size: cover;
+    height: 60vh;
+    background-color: lightblue;
+    outline: black;
+    padding: 20px;
+    border: 3px solid lightgoldenrodyellow;
+}
+.row_2{
+    background-image: url("2.jpg");
+    position: inherit;
+    background-size: cover;
+    height: 80vh;
+    background-color: lightblue;
+    outline: black;
+    padding: 20px;
+    border: 3px solid lightgoldenrodyellow;
+}
+.row_3{
+    background-image: url("3.jpg");
+    position: inherit;
+    object-position: left;
+    background-size: cover;
+    height: 80vh;
+    background-color: lightblue;
+    outline: black;
+    padding: 20px;
+    border: 3px solid lightgoldenrodyellow;
+}
+.row_4{
+    background-image: url("4.jpg");
+    position: inherit;
+    background-size: cover;
+    height: 140vh;
+    background-color: lightblue;
+    outline: black;
+    padding: 20px;
+    border: 3px solid lightgoldenrodyellow;
+}
+#pic{
+
+}
+
+#bio{
+    position: inherit;
+}
+.checked {
+    color: orange;
+  }
+
+#c1{
+    color: darkblue;
+}
+
+.hobby{
+    color: lightgray;
+}
+#ref{
+    padding: 20px;
+    border: white;
+    outline: black;
+    color: white;
+}
+
+#nav{
+    position: fixed;
+    font-family: Bold Fraktur Font;
+}
